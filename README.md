@@ -7,6 +7,6 @@
 - Instalar o cypress (npm install cypress –D);
 - Abrir o exemplo do cypress (npx cypress open);
 - Recriar os exemplos de testes:
-- Login
-- Pré-cadastro
-- Produtos
+  - Login
+  - Pré-cadastro
+  - Produtos
